@@ -10,4 +10,8 @@ In addition, simple security measurements were implemented as part of a requirem
 
 ## Sample Screenshots
 
+<img src='screenshots/landing.png' width: '40%'>
+<img src='screenshots/login.png' width: '60%'>
+<img src='screenshots/dashboard.png' width: '40%'>
+<img src='screenshots/trades.png' width: '60%'>
 
