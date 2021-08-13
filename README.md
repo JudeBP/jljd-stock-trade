@@ -8,6 +8,8 @@ In addition, simple security measurements were implemented as part of a requirem
 
 **Tools Used:** Plain HTML, CSS, JavaScript, and PHP with MySQL database 
 
+**Logo Created by Jerome Calicdan**
+
 ## Sample Screenshots
 
 <img src='screenshots/landing.png' width= '40%'>
